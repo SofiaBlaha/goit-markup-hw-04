@@ -310,6 +310,7 @@ a {
     display: flex;
     gap: 24px;
     justify-content: center;
+    margin-top: 8px;
 }
 
 .second-team-icons {
@@ -470,7 +471,6 @@ color: #f4f4fd;
 }
 
 .footer-content {
-    display: flex;
     align-items: baseline;
 }
 
